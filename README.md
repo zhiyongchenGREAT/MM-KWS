@@ -1,7 +1,7 @@
-# MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting（Updating）
+# MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting
 
 ### Note
-1. Code for the paper 'MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting', Interspeech 2024 accepted
+1. Code Repo for the paper 'MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting'
 2. Arxiv: <a>https://arxiv.org/pdf/2406.07310</a>
 3. The code-version1
 4. WenetPrase hardneg-data & Libriphrase hardneg-data
